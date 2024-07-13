@@ -1,2 +1,2 @@
 # Website-with-a-comment-system
-Проект сайта с системой комментариев на html и javascript
+A website project with a comment system in html and javascript
